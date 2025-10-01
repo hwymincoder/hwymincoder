@@ -6,6 +6,7 @@
 📈 Always improving: query optimization · service design · observability
 
 ✨ Current focus: Microservices fundamentals & production-ready monitoring
+
 🤝 Open to: Internships, collaborations, and real-world projects
 
 ## 🌐Socials
